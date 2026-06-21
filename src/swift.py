@@ -1,3 +1,18 @@
+# ============================================================
+# SwiftRoute AI Project - Exploratory Data Analysis (EDA)
+#
+# Author: Moses Kwagala
+# Course: CSC 2103 Artificial Intelligence
+# Institution: Uganda Technology and Management University (UTAMU)
+#
+# Declaration of Original Work:
+# I hereby declare that this project and the code contained in
+# this file are my own original work. Any references, concepts,
+# libraries, or learning resources used during development have
+# been appropriately studied and applied by me. 
+#Thanks Madam
+# ============================================================
+
 import pandas as pd
 df = pd.read_csv("data/raw/Train.csv")
 print(df.head())
